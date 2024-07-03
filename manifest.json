@@ -1,0 +1,16 @@
+{
+    "manifest_version": 3,
+    "name": "Speech Emotion Recognition",
+    "version": "1.0",
+    "description": "Upload an audio file and get emotion prediction",
+    "permissions": [
+        "activeTab"
+    ],
+    "action": {
+        "default_popup": "popup.html",
+        "default_icon": {
+            
+            "128": "Souvik.jpeg"
+        }
+    }
+}

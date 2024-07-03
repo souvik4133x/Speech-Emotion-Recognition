@@ -9,4 +9,4 @@
 
 
 
-*This is a Simple chrome extension Where Someone Can detect their emotion with voice*/
+*This is a Simple chrome extension Where Someone Can detect their emotion with voice*
